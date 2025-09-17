@@ -12,3 +12,5 @@ Usage:
 ```
 ./chip8 target.ch8
 ```
+
+![img](img1jpg)
