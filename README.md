@@ -13,4 +13,4 @@ Usage:
 ./chip8 target.ch8
 ```
 
-![img](img1,png)
+![img](img1.png)
